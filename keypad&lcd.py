@@ -1,5 +1,8 @@
 # for using a membrane keypad and i2c lcd with the Raspberry Pi 
 
+# A module to control Raspberry Pi GPIO channels
+# use the following command: pip install RPi.GPIO
+
 # Define lcd (Need to install rpi_lcd on Raspberry pi)
 # First Command: wget https://bitbucket.org/MattHawkinsUK/rpispy-misc/raw/master/python/lcd_i2c.py
 # Second Command: sudo pip3 install rpi_lcd
